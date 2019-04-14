@@ -1,0 +1,51 @@
+{
+  "name": "electron-with-create-react-app",
+  "version": "0.0.0",
+  "description": "Electron with Create React App",
+  "keywords": [
+    "electron",
+    "react"
+  ],
+  "author": {
+    "name": "Aleksandr Ivannikov",
+    "email": "a.n.ivannikov@yandex.ru",
+    "url": "https://an-ivannikov.github.io"
+  },
+  "license": "MIT",
+  "private": true,
+  "main": "./src/electron-starter.js",
+  "homepage": "./",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/an-ivannikov/electron-with-create-react-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/an-ivannikov/electron-with-create-react-app/issues"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "electron": "electron ./",
+    "dev": "nf start -p 3000"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-scripts": "2.1.8"
+  },
+  "devDependencies": {
+    "electron": "^4.1.4",
+    "foreman": "^3.0.1"
+  }
+}
