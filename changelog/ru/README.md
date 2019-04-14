@@ -9,6 +9,7 @@
 
 ## [Не выпущено]
 
+## v0.1.0 - 2019-04-14
 ### Добавлено
   - [Foreman](https://www.npmjs.com/package/foreman);
   - Настроена основа для создания кроссплатформенного приложения при помощи
@@ -17,4 +18,4 @@
 по [инструкции](https://medium.freecodecamp.org/building-an-electron-application-with-create-react-app-97945861647c);
   - [Журнал изменений](/changelog).
 
-[Не выпущено]: https://github.com/an-ivannikov/electron-with-create-react-app/compare/
+[Не выпущено]: https://github.com/an-ivannikov/electron-with-create-react-app/compare/v0.1.0...HEAD

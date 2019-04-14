@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 
+## v0.1.0 - 2019-04-14
 ### Added
   - [Foreman](https://www.npmjs.com/package/foreman);
   - Set up the basis for creating a cross-platform application using
@@ -17,4 +18,4 @@ the [Create React App](https://github.com/facebookincubator/create-react-app))
 to the [instruction](https://medium.freecodecamp.org/building-an-electron-application-with-create-react-app-97945861647c);
   - [Change Log](/changelog).
 
-[Unreleased]: https://github.com/an-ivannikov/electron-with-create-react-app/compare/
+[Unreleased]: https://github.com/an-ivannikov/electron-with-create-react-app/compare/v0.1.0...HEAD
